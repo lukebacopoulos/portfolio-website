@@ -1,0 +1,26 @@
+
+.projects {
+    margin: 200px 0; 
+    color: rgb(255, 255, 255);  
+  }
+  .EZRlogo {
+    width: 50px; /* Adjust the width as needed */
+    height: auto; /* Maintain the aspect ratio */
+    margin-left: 20px
+  }
+
+  .project {
+    display: flex;
+    align-items: center;
+  }
+  
+  .project-info {
+    flex: 1;
+    font-size: 40px;
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  .project-image {
+    flex: 0;
+  }
